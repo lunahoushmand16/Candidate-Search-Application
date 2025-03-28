@@ -119,7 +119,13 @@ const SavedCandidates = () => {
                 {candidate.name} (<em>{candidate.login}</em>)
               </td>
               <td>{candidate.location || 'N/A'}</td>
-              <td>{candidate.email || 'N/A'}</td>
+              <td> {/* Long emails will wrap instead of overflowing */}
+              {candidate.email ? (
+               <a href={`mailto:${candidate.email}`} style={{ color: '#ccc' }}>
+                  {candidate.email}
+               </a>
+               ) : 'N/A'}
+              </td>
               <td>{candidate.company || 'N/A'}</td>
               <td>{candidate.bio || 'Bio not available'}</td>
               <td>
