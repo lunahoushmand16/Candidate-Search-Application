@@ -94,4 +94,4 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Render Link
 
-[Render Link]()
+[Render Link](https://candidate-search-application-pviy.onrender.com)
