@@ -63,9 +63,9 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ## Badges
 
-![GitHub repo size](https://img.shields.io/github/repo-size/lunahoushmand16/candidate-Search-Application)
-![GitHub contributors](https://img.shields.io/github/contributors/lunahoushmand16/candidate-Search-Application)
-![GitHub stars](https://img.shields.io/github/stars/lunahoushmand16/candidate-Search-Application?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/lunahoushmand16/Candidate-Search-Application)
+![GitHub contributors](https://img.shields.io/github/contributors/lunahoushmand16/Candidate-Search-Application)
+![GitHub stars](https://img.shields.io/github/stars/lunahoushmand16/Candidate-Search-Application?style=social)
 
 ## Features
 
